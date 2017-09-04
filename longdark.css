@@ -65,16 +65,17 @@ header {
 section {
   min-height: 250px;
   text-align: center;
-  padding: 50px 80px;
 }
 
 
 .section1 {
+  padding: 3em 0;
   color: white;
   background: #0a131f;
 }
 
 .section2 {
+    padding: 3em 0;
   background: white;
 }
 
